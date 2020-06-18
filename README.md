@@ -11,4 +11,4 @@ Add the following block to your `.pre-commit-config.yaml`
 ```
 
 # docker
-Public repo: https://hub.docker.com/repository/docker/cybergrx/terraform-linter
+Public repo: https://hub.docker.com/r/cybergrx/terraform-linter
