@@ -1,2 +1,2 @@
 # terraform-linter
-Run Terraform linting as with a pre-commit hook
+Run Terraform linting with a pre-commit hook

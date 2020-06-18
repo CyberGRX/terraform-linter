@@ -1,0 +1,6 @@
+-   id: terraform-linter
+    name: terraform linter (docker)
+    description: Terraform linting via docker_image
+    entry: cybergrx/terraform-linter:latest
+    language: docker_image
+    files: \.tf$
