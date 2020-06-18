@@ -9,3 +9,6 @@ Add the following block to your `.pre-commit-config.yaml`
     hooks:
       - id: terraform-linter
 ```
+
+# docker
+Public repo: https://hub.docker.com/repository/docker/cybergrx/terraform-linter
