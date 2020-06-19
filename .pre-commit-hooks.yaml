@@ -1,5 +1,5 @@
 -   id: terraform-linter
-    name: terraform linter (docker)
+    name: Terraform linter
     description: Terraform linting via docker_image
     entry: cybergrx/terraform-linter:latest
     language: docker_image
